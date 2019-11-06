@@ -7,7 +7,7 @@
   "author": "wangarikim41@gmail.com",
   "license": "MIT",
   "scripts": {
-    "start": "webpack --mode development"
+    "start": "webpack-dev-server --open --mode development"
   },
   "dependencies": {
     "@babel/core": "^7.7.0",
@@ -19,6 +19,7 @@
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.9.0"
   }
 }
