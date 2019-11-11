@@ -6,10 +6,10 @@ This small repo acts as a basis for my React projects
 - Webpack
 - React
 - Babel
-
-### Upcoming
 - Prettier
 - ESLint
+
+### Upcoming
 - Husky
 
 - Style loader
